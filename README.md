@@ -20,6 +20,11 @@ This repository contains my completed courses, job simulations, and professional
 - Data Storytelling
 - AI-powered Business Solutions
 - Excel
+- SQL
+- Power BI
+- Python
+- BUSINESS Statistics
+- Machine Learning
 
 ## 📜 Certificates & Completion Documents
 
