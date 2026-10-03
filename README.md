@@ -33,7 +33,7 @@ Completed in **October 2026**.
 
 [View Certificate](./GEN%20AI%20CERTIFICATE.pdf)
 
-### 3. Free Data Analyst Course
+### 3. Data Analyst Course
 Completed on **29 September 2026**.
 
 [View Certificate](./SIMPLYLEARN%20DATA%20ANALYST.pdf)
